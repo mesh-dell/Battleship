@@ -8,6 +8,7 @@ A simple depiction of the battleship game like in W3schools but better.
   <li> Run the following command</li>
   
 `$ make filename`
+<br>
 `$ ./filename`
   <li> Now enjoy the game </li>
 </ul>
